@@ -95,3 +95,7 @@ The best model scored MAP@5 = 0.10280
 | ALS Similarity Weight   | 0.07|
 | SVD Similarity Weight   | 0.7 |
 | SLIM BPR Ratings Weight | 0.8 |
+
+
+## Other Contributors
+* **[Lorenzo Norcini](https://github.com/LorenzoNorcini)**
