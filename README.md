@@ -55,7 +55,7 @@ Given the characteristics of the challenge the algorithms implemented in the "re
 
 More examples that use the challenge dataset can be found in the "examples.py" files.
 
-The data is available [here](https://www.kaggle.com/c/recommender-system-2017-challenge-polimi/data).
+The data is available [here](https://www.kaggle.com/c/recommender-system-2017-challenge-polimi/data) and the final presentation is available [here](https://github.com/gmenchetti/Hybrid-Recommender/blob/master/docs/Presentation.pdf).
 
 ## Results
 
